@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-h1 {
+.header {
   color: white;
-  padding: 20;
+  text-align: center;
 }
